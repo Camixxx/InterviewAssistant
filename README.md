@@ -9,9 +9,15 @@
 关于Watson服务绑定，请查看Watson相关文档，并在app.js里面做修改
 
 #Archtecture
-![](http://i12.tietuku.com/4d158392001ccd7b.png)
-![](http://i12.tietuku.com/e634e4325374f824.png)
+![架构](http://i12.tietuku.com/4d158392001ccd7b.png)
+![数据流图](http://i12.tietuku.com/e634e4325374f824.png)
 
+#Run
+![运行截图](http://i12.tietuku.com/538cae8424950805.jpg)
 
+#About
+联系邮箱：arraylea@outlook.com
+
+本项目利用Bluemix平台搭建
 
 
