@@ -8,6 +8,9 @@
 #Service
 关于Watson服务绑定，请查看Watson相关文档，并在app.js里面做修改
 
+#Archtecture
+![](http://i12.tietuku.com/4d158392001ccd7b.png)
+![](http://i12.tietuku.com/e634e4325374f824.png)
 
 
 
