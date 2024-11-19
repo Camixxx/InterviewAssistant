@@ -16,7 +16,6 @@
 ![运行截图](http://i12.tietuku.com/538cae8424950805.jpg)
 
 #About
-联系邮箱：arraylea@outlook.com
 
 本项目利用Bluemix平台搭建
 
